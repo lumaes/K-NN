@@ -1,2 +1,26 @@
 # K-NN
-implementation from scratch of the k-Nearest Neighbour algorithm from scratch.
+
+K-NN is the implementation in python of the famous based instances algorithm
+for machine learning K-Nearest Neighbors. The implementation is
+made from scracth and NO LIBRARIES are require to use this python script.
+
+## Installation
+
+Clone this repository with this following command.
+
+```bash
+git clone https://github.com/lumaes/K-NN/
+```
+
+## Usage
+
+```python
+#TODO: dataset example
+
+knn(your dataset, the query point, k, is classification? , distance algorithm)
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
