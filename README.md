@@ -17,7 +17,7 @@ git clone https://github.com/lumaes/K-NN/
 ```python
 #TODO: dataset example
 
-knn(your dataset, the query point, k, is classification? , distance algorithm)
+knn(your_dataset, the_query_point, k, is_classification , distance_algorithm)
 ```
 
 ## Contributing
