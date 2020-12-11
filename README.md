@@ -38,3 +38,8 @@ I am going to list here all the tutorials I followed to build this library in or
 - Building a python library : https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f
 - Upload a python library on PyPi : https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56
 
+### Recommended resources
+
+------
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate. Just try the keep as readable and clean code as possible and avoid to use too much libraries.
