@@ -22,6 +22,7 @@ var/
 wheels/
 share/python-wheels/
 *.egg-info/
+*.egg-info
 .installed.cfg
 *.egg
 MANIFEST
@@ -143,4 +144,5 @@ cython_debug/
 # Build
 .build/
 # Macos Ds Store
-.DS_Store
+*.DS_Store
+*.swp

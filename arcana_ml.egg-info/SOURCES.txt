@@ -1,8 +1,0 @@
-README.md
-setup.py
-arcana-ml/__init__.py
-arcana_ml.egg-info/PKG-INFO
-arcana_ml.egg-info/SOURCES.txt
-arcana_ml.egg-info/dependency_links.txt
-arcana_ml.egg-info/top_level.txt
-tests/__init__.py
